@@ -18,7 +18,7 @@ Edit the entretainment_center.py file
 
 Under add movies (line 11) add the following line and replace the strings with your own:
     
-    add_movie(media.Movie('Movie Title','Youtube Trailer Link','Poster Link'))
+    add_movie(media.Movie('Movie Title','Youtube Trailer Link','Poster Link','Release Year'))
 
 ## Credits
 
